@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi 👋 I'm Shanmuga Raja
 
-<!--
-**shanmugaraja-dev/shanmugaraja-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer | .NET Developer
 
-Here are some ideas to get you started:
+I enjoy building scalable applications using the .NET ecosystem and modern web technologies.
+I am passionate about learning new technologies and improving development workflows using modern tools and AI-assisted development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+**Backend:** C#, ASP.NET Core, Entity Framework Core, REST APIs    
+**Frontend:** HTML, CSS, JavaScript, Bootstrap, jQuery, React    
+**Database:** SQL Server, MongoDB    
+**Cloud:** AWS
+
+---
+
+## 📌 Featured Projects
+
+### 🎬 Movie Ticket Booking Application
+
+**ASP.NET Core MVC | Entity Framework Core | SQL Server**
+
+A web application that allows users to browse movies and book tickets online.
+Includes authentication and an admin panel for managing movies and bookings.
+
+Repository:
+https://github.com/shanmugaraja-dev/movie-ticket-booking-application
+
+---
+
+### 🧑‍💼 Employee Management System (WPF)
+
+**WPF | MVVM | C#**
+
+A desktop application for managing employee records using the MVVM architecture pattern.
+
+---
+
+## 🏆 Certifications
+
+* AWS Certified Cloud Practitioner (CLF-C02)
+* AWS Certified Developer – Associate
+
+---
+
+## 📫 Connect With Me
+
+Email
+[mshanmugaraja22@gmail.com](mailto:mshanmugaraja22@gmail.com)
+
+LinkedIn
+https://www.linkedin.com/in/shanmuga-raja-m
+
+---
+
+⭐ Always learning and improving as a software developer.
